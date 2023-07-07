@@ -2,6 +2,5 @@
 echo "ALX School is so cool!"
 #!/bin/bash
 echo "ALX School"
->>>>>>> 39b624e... My personal work
-#!/bin/bash echo "ALX School"
->>>>>>> update_script
+#!/bin/bash echo
+"ALX School"
