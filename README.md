@@ -1,1 +1,1 @@
-My first readme | this has been helfull
+My first readme
